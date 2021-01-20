@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qikaile.us/volantis/posts/62864.html</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.us/volantis/posts/26308.html</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qikaile.us/volantis/vadmin/index.html</loc>
     
     <lastmod>2020-12-26</lastmod>
@@ -151,7 +165,7 @@
 
   <url>
     <loc>https://qikaile.us/volantis</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -159,63 +173,77 @@
   
   <url>
     <loc>https://qikaile.us/volantis/tags/Office/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/tags/Python/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/tags/English/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/tags/markdown/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/tags/pandas/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/tags/Solidworks/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/tags/photoshop/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/tags/hexo/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qikaile.us/volantis/tags/Hexo/</loc>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qikaile.us/volantis/tags/Emoji/</loc>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -224,21 +252,28 @@
   
   <url>
     <loc>https://qikaile.us/volantis/categories/Pandas/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/categories/photoshop/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qikaile.us/volantis/categories/Hexo/</loc>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.us/volantis/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-01-13</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

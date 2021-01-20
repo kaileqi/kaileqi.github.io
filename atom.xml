@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qikaile.us/"/>
-  <updated>2020-06-15T06:22:19.535Z</updated>
+  <updated>2021-01-20T10:49:51.436Z</updated>
   <id>https://qikaile.us/</id>
   
   <author>
@@ -17,9 +17,201 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo中使用emoji表情</title>
+    <link href="https://qikaile.us/posts/d45348c5.html"/>
+    <id>https://qikaile.us/posts/d45348c5.html</id>
+    <published>2021-01-20T03:13:23.000Z</published>
+    <updated>2021-01-20T10:49:51.436Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://qikaile.us/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://qikaile.us/tags/Hexo/"/>
+    
+      <category term="Emoji" scheme="https://qikaile.us/tags/Emoji/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Office365邮局开启SPF、DKIM与DMARC</title>
+    <link href="https://qikaile.us/posts/26308.html"/>
+    <id>https://qikaile.us/posts/26308.html</id>
+    <published>2021-01-20T03:00:12.000Z</published>
+    <updated>2021-01-20T10:56:39.759Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Office" scheme="https://qikaile.us/tags/Office/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Abaqus 有限元教程(气动网弯曲执行器)</title>
+    <link href="https://qikaile.us/posts/28586.html"/>
+    <id>https://qikaile.us/posts/28586.html</id>
+    <published>2020-12-14T11:51:55.000Z</published>
+    <updated>2021-01-20T11:14:02.258Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="有限元分析" scheme="https://qikaile.us/categories/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="有限元分析" scheme="https://qikaile.us/tags/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solidworks学习笔记</title>
+    <link href="https://qikaile.us/posts/26833.html"/>
+    <id>https://qikaile.us/posts/26833.html</id>
+    <published>2020-11-19T02:40:26.000Z</published>
+    <updated>2021-01-20T11:15:58.894Z</updated>
+    
+    <summary type="html">
+    
+      作为机械专业的一员，掌握常用软件是必须具备的素质之一。本文是小编通过对solidworks的学习，整理的solidworks学习笔记，希望对您有所帮助，欢迎阅读收藏！
+    
+    </summary>
+    
+    
+    
+      <category term="Solidworks" scheme="https://qikaile.us/tags/Solidworks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>听力必考21大场景</title>
+    <link href="https://qikaile.us/posts/44468.html"/>
+    <id>https://qikaile.us/posts/44468.html</id>
+    <published>2020-11-19T02:32:52.000Z</published>
+    <updated>2021-01-20T10:53:15.294Z</updated>
+    
+    <summary type="html">
+    
+      听力考试分为很多场景，在备考中提前熟知场景类型是很必要的，本文为大家归纳听力常见的21大场景，供大家参考。
+    
+    </summary>
+    
+    
+    
+      <category term="English" scheme="https://qikaile.us/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费申请 Office365 E5 开发者订阅</title>
+    <link href="https://qikaile.us/posts/61191.html"/>
+    <id>https://qikaile.us/posts/61191.html</id>
+    <published>2020-11-19T02:28:03.000Z</published>
+    <updated>2021-01-20T10:56:19.540Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Office" scheme="https://qikaile.us/tags/Office/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费开源剪辑软件Shotcut推荐和使用教程</title>
+    <link href="https://qikaile.us/posts/48498.html"/>
+    <id>https://qikaile.us/posts/48498.html</id>
+    <published>2020-11-19T01:09:28.000Z</published>
+    <updated>2021-01-20T11:16:58.454Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Python绘图</title>
+    <link href="https://qikaile.us/posts/16997.html"/>
+    <id>https://qikaile.us/posts/16997.html</id>
+    <published>2020-11-19T00:55:33.000Z</published>
+    <updated>2021-01-20T11:19:00.598Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Python" scheme="https://qikaile.us/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>markdown笔记</title>
-    <link href="https://qikaile.us/markdown%E7%AC%94%E8%AE%B0.html"/>
-    <id>https://qikaile.us/markdown%E7%AC%94%E8%AE%B0.html</id>
+    <link href="https://qikaile.us/posts/7417429a.html"/>
+    <id>https://qikaile.us/posts/7417429a.html</id>
     <published>2020-06-14T16:00:00.000Z</published>
     <updated>2020-06-15T06:22:19.535Z</updated>
     
@@ -41,8 +233,8 @@
   
   <entry>
     <title>PS功能精通课</title>
-    <link href="https://qikaile.us/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html"/>
-    <id>https://qikaile.us/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html</id>
+    <link href="https://qikaile.us/posts/20b03a28d.html"/>
+    <id>https://qikaile.us/posts/20b03a28d.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-04T08:34:26.719Z</updated>
     
@@ -68,8 +260,8 @@
   
   <entry>
     <title>Pandas中文手册</title>
-    <link href="https://qikaile.us/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html"/>
-    <id>https://qikaile.us/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html</id>
+    <link href="https://qikaile.us/posts/20b03m28d.html"/>
+    <id>https://qikaile.us/posts/20b03m28d.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-15T04:13:32.294Z</updated>
     
@@ -95,8 +287,8 @@
   
   <entry>
     <title>十分钟搞定 pandas</title>
-    <link href="https://qikaile.us/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9Apandas.html"/>
-    <id>https://qikaile.us/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9Apandas.html</id>
+    <link href="https://qikaile.us/posts/20b03c28d.html"/>
+    <id>https://qikaile.us/posts/20b03c28d.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-04T08:35:09.041Z</updated>
     
@@ -122,10 +314,10 @@
   
   <entry>
     <title>机器学习课程</title>
-    <link href="https://qikaile.us/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B.html"/>
-    <id>https://qikaile.us/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B.html</id>
+    <link href="https://qikaile.us/posts/20b03b19d.html"/>
+    <id>https://qikaile.us/posts/20b03b19d.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2020-12-06T01:42:28.965Z</updated>
+    <updated>2021-01-20T10:56:02.825Z</updated>
     
     <summary type="html">
     
@@ -149,14 +341,14 @@
   
   <entry>
     <title>Hexo搭建个人博客系列：主题美化篇</title>
-    <link href="https://qikaile.us/hexo-theme-beautify.html"/>
-    <id>https://qikaile.us/hexo-theme-beautify.html</id>
+    <link href="https://qikaile.us/posts/20b03m19d.html"/>
+    <id>https://qikaile.us/posts/20b03m19d.html</id>
     <published>2020-03-18T16:00:00.000Z</published>
-    <updated>2020-10-12T09:08:59.840Z</updated>
+    <updated>2021-01-20T08:14:59.440Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Jan 13 2021 21:06:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/coast.jpg&quot; alt=&quot;题图&quot;&gt;&lt;/p&gt;&lt;p&gt;本文介绍了在Next主题的基础上进一步对博客进行美化的方案，主要包括:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;在文章末尾添加结束标记&lt;/li&gt;&lt;li&gt;修改侧边栏的位置到左边&lt;/li&gt;&lt;li&gt;添加不同类型的动态背景效果&lt;/li&gt;&lt;li&gt;添加 live2d 看板娘&lt;/li&gt;&lt;li&gt;为布局元素添加边缘弹性摆动效果&lt;/li&gt;&lt;li&gt;个性化回到顶部按钮&lt;/li&gt;&lt;li&gt;添加不同类型的鼠标点击特效&lt;/li&gt;&lt;li&gt;评论区输入打字礼花特效&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;读者可以根据需要选择其中喜欢的方案应用到站点博客中。&lt;/p&gt;
+      本文主要是NexT主题配置以及页面的样式优化，参考了许多大佬的文章以及配置文件。
     
     </summary>
     
@@ -171,11 +363,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://qikaile.us/hello-world.html"/>
-    <id>https://qikaile.us/hello-world.html</id>
-    <published>2020-03-13T16:00:00.000Z</published>
-    <updated>2020-03-29T08:24:08.235Z</updated>
+    <title>hello-world</title>
+    <link href="https://qikaile.us/posts/b1d4025b.html"/>
+    <id>https://qikaile.us/posts/b1d4025b.html</id>
+    <published>2020-03-14T08:19:42.000Z</published>
+    <updated>2021-01-20T08:21:37.488Z</updated>
     
     <summary type="html">
     
