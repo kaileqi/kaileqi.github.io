@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo中使用emoji表情</title>
-    <link href="https://qikaile.us/posts/d45348c5.html"/>
-    <id>https://qikaile.us/posts/d45348c5.html</id>
+    <link href="https://qikaile.us/hexo-emoji.html"/>
+    <id>https://qikaile.us/hexo-emoji.html</id>
     <published>2021-01-20T03:13:23.000Z</published>
     <updated>2021-01-20T10:49:51.436Z</updated>
     
@@ -47,8 +47,8 @@
   
   <entry>
     <title>Office365邮局开启SPF、DKIM与DMARC</title>
-    <link href="https://qikaile.us/posts/26308.html"/>
-    <id>https://qikaile.us/posts/26308.html</id>
+    <link href="https://qikaile.us/Office365-Post-Office-opens-SPF-DKIM-DMARC.html"/>
+    <id>https://qikaile.us/Office365-Post-Office-opens-SPF-DKIM-DMARC.html</id>
     <published>2021-01-20T03:00:12.000Z</published>
     <updated>2021-01-20T10:56:39.759Z</updated>
     
@@ -72,8 +72,8 @@
   
   <entry>
     <title>Abaqus 有限元教程(气动网弯曲执行器)</title>
-    <link href="https://qikaile.us/posts/28586.html"/>
-    <id>https://qikaile.us/posts/28586.html</id>
+    <link href="https://qikaile.us/FEM-analysis-of-PneuNet-actuator.html"/>
+    <id>https://qikaile.us/FEM-analysis-of-PneuNet-actuator.html</id>
     <published>2020-12-14T11:51:55.000Z</published>
     <updated>2021-01-20T11:14:02.258Z</updated>
     
@@ -99,8 +99,8 @@
   
   <entry>
     <title>Solidworks学习笔记</title>
-    <link href="https://qikaile.us/posts/26833.html"/>
-    <id>https://qikaile.us/posts/26833.html</id>
+    <link href="https://qikaile.us/solidworks-note.html"/>
+    <id>https://qikaile.us/solidworks-note.html</id>
     <published>2020-11-19T02:40:26.000Z</published>
     <updated>2021-01-20T11:15:58.894Z</updated>
     
@@ -118,8 +118,8 @@
   
   <entry>
     <title>听力必考21大场景</title>
-    <link href="https://qikaile.us/posts/44468.html"/>
-    <id>https://qikaile.us/posts/44468.html</id>
+    <link href="https://qikaile.us/Scenes-of-Listening.html"/>
+    <id>https://qikaile.us/Scenes-of-Listening.html</id>
     <published>2020-11-19T02:32:52.000Z</published>
     <updated>2021-01-20T10:53:15.294Z</updated>
     
@@ -137,8 +137,8 @@
   
   <entry>
     <title>免费申请 Office365 E5 开发者订阅</title>
-    <link href="https://qikaile.us/posts/61191.html"/>
-    <id>https://qikaile.us/posts/61191.html</id>
+    <link href="https://qikaile.us/Office365-E5.html"/>
+    <id>https://qikaile.us/Office365-E5.html</id>
     <published>2020-11-19T02:28:03.000Z</published>
     <updated>2021-01-20T10:56:19.540Z</updated>
     
@@ -162,8 +162,8 @@
   
   <entry>
     <title>免费开源剪辑软件Shotcut推荐和使用教程</title>
-    <link href="https://qikaile.us/posts/48498.html"/>
-    <id>https://qikaile.us/posts/48498.html</id>
+    <link href="https://qikaile.us/Shotcut.html"/>
+    <id>https://qikaile.us/Shotcut.html</id>
     <published>2020-11-19T01:09:28.000Z</published>
     <updated>2021-01-20T11:16:58.454Z</updated>
     
@@ -185,8 +185,8 @@
   
   <entry>
     <title>Python绘图</title>
-    <link href="https://qikaile.us/posts/16997.html"/>
-    <id>https://qikaile.us/posts/16997.html</id>
+    <link href="https://qikaile.us/Python-matplotlib-Seaborn.html"/>
+    <id>https://qikaile.us/Python-matplotlib-Seaborn.html</id>
     <published>2020-11-19T00:55:33.000Z</published>
     <updated>2021-01-20T11:19:00.598Z</updated>
     
@@ -210,8 +210,8 @@
   
   <entry>
     <title>markdown笔记</title>
-    <link href="https://qikaile.us/posts/7417429a.html"/>
-    <id>https://qikaile.us/posts/7417429a.html</id>
+    <link href="https://qikaile.us/markdown-note.html"/>
+    <id>https://qikaile.us/markdown-note.html</id>
     <published>2020-06-14T16:00:00.000Z</published>
     <updated>2020-06-15T06:22:19.535Z</updated>
     
@@ -232,9 +232,36 @@
   </entry>
   
   <entry>
+    <title>十分钟搞定 pandas</title>
+    <link href="https://qikaile.us/10-Minutes-to-pandas.html"/>
+    <id>https://qikaile.us/10-Minutes-to-pandas.html</id>
+    <published>2020-03-27T16:00:00.000Z</published>
+    <updated>2020-04-04T08:35:09.041Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="pandas" scheme="https://qikaile.us/categories/pandas/"/>
+    
+    
+      <category term="pandas" scheme="https://qikaile.us/tags/pandas/"/>
+    
+  </entry>
+  
+  <entry>
     <title>PS功能精通课</title>
-    <link href="https://qikaile.us/posts/20b03a28d.html"/>
-    <id>https://qikaile.us/posts/20b03a28d.html</id>
+    <link href="https://qikaile.us/PS-note.html"/>
+    <id>https://qikaile.us/PS-note.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-04T08:34:26.719Z</updated>
     
@@ -260,8 +287,8 @@
   
   <entry>
     <title>Pandas中文手册</title>
-    <link href="https://qikaile.us/posts/20b03m28d.html"/>
-    <id>https://qikaile.us/posts/20b03m28d.html</id>
+    <link href="https://qikaile.us/pandas-manual.html"/>
+    <id>https://qikaile.us/pandas-manual.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-15T04:13:32.294Z</updated>
     
@@ -286,36 +313,9 @@
   </entry>
   
   <entry>
-    <title>十分钟搞定 pandas</title>
-    <link href="https://qikaile.us/posts/20b03c28d.html"/>
-    <id>https://qikaile.us/posts/20b03c28d.html</id>
-    <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2020-04-04T08:35:09.041Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="pandas" scheme="https://qikaile.us/categories/pandas/"/>
-    
-    
-      <category term="pandas" scheme="https://qikaile.us/tags/pandas/"/>
-    
-  </entry>
-  
-  <entry>
     <title>机器学习课程</title>
-    <link href="https://qikaile.us/posts/20b03b19d.html"/>
-    <id>https://qikaile.us/posts/20b03b19d.html</id>
+    <link href="https://qikaile.us/Machine-learning-note.html"/>
+    <id>https://qikaile.us/Machine-learning-note.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2021-01-20T10:56:02.825Z</updated>
     
@@ -341,8 +341,8 @@
   
   <entry>
     <title>Hexo搭建个人博客系列：主题美化篇</title>
-    <link href="https://qikaile.us/posts/20b03m19d.html"/>
-    <id>https://qikaile.us/posts/20b03m19d.html</id>
+    <link href="https://qikaile.us/hexo-theme-beautify.html"/>
+    <id>https://qikaile.us/hexo-theme-beautify.html</id>
     <published>2020-03-18T16:00:00.000Z</published>
     <updated>2021-01-20T08:14:59.440Z</updated>
     
@@ -364,8 +364,8 @@
   
   <entry>
     <title>hello-world</title>
-    <link href="https://qikaile.us/posts/b1d4025b.html"/>
-    <id>https://qikaile.us/posts/b1d4025b.html</id>
+    <link href="https://qikaile.us/hello-world.html"/>
+    <id>https://qikaile.us/hello-world.html</id>
     <published>2020-03-14T08:19:42.000Z</published>
     <updated>2021-01-20T08:21:37.488Z</updated>
     
