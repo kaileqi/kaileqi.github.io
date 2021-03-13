@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qikaile.us/"/>
-  <updated>2021-01-20T10:49:51.436Z</updated>
+  <updated>2021-03-06T03:17:50.322Z</updated>
   <id>https://qikaile.us/</id>
   
   <author>
@@ -15,6 +15,262 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你可能不知道的15个有用的Github功能</title>
+    <link href="https://qikaile.us/15-useful-functions-of-Github.html"/>
+    <id>https://qikaile.us/15-useful-functions-of-Github.html</id>
+    <published>2021-03-06T02:58:12.000Z</published>
+    <updated>2021-03-06T03:17:50.322Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>onedrive-cf-index 搭建教程</title>
+    <link href="https://qikaile.us/onedrive-cf-index-tutorial.html"/>
+    <id>https://qikaile.us/onedrive-cf-index-tutorial.html</id>
+    <published>2021-03-05T09:22:40.000Z</published>
+    <updated>2021-03-06T02:34:38.277Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="OneDrive" scheme="https://qikaile.us/tags/OneDrive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>uptime-status站点状态监控</title>
+    <link href="https://qikaile.us/uptime-status.html"/>
+    <id>https://qikaile.us/uptime-status.html</id>
+    <published>2021-02-24T06:25:27.000Z</published>
+    <updated>2021-02-24T06:30:05.369Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="站点监控" scheme="https://qikaile.us/tags/%E7%AB%99%E7%82%B9%E7%9B%91%E6%8E%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github如何更新Fork的仓库</title>
+    <link href="https://qikaile.us/github-fork-update.html"/>
+    <id>https://qikaile.us/github-fork-update.html</id>
+    <published>2021-02-24T06:06:40.000Z</published>
+    <updated>2021-02-24T06:30:05.371Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="github" scheme="https://qikaile.us/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-NexT Tag 插件的使用</title>
+    <link href="https://qikaile.us/hexo-next-Tag-Plugin.html"/>
+    <id>https://qikaile.us/hexo-next-Tag-Plugin.html</id>
+    <published>2021-02-24T03:32:25.000Z</published>
+    <updated>2021-02-24T08:07:37.924Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="NexT Tag" scheme="https://qikaile.us/categories/NexT-Tag/"/>
+    
+    
+      <category term="NexT Tag" scheme="https://qikaile.us/tags/NexT-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github图片加速心得</title>
+    <link href="https://qikaile.us/github-picture-cdn.html"/>
+    <id>https://qikaile.us/github-picture-cdn.html</id>
+    <published>2021-02-24T01:47:04.000Z</published>
+    <updated>2021-02-24T04:32:35.592Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://qikaile.us/categories/github/"/>
+    
+    
+      <category term="github" scheme="https://qikaile.us/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 CloudFlare 加速你的网站</title>
+    <link href="https://qikaile.us/CloudFlare-optional-ip.html"/>
+    <id>https://qikaile.us/CloudFlare-optional-ip.html</id>
+    <published>2021-02-19T13:40:09.000Z</published>
+    <updated>2021-02-19T13:44:09.457Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="cloudflare" scheme="https://qikaile.us/categories/cloudflare/"/>
+    
+    
+      <category term="cloudflare" scheme="https://qikaile.us/tags/cloudflare/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OneManager+CloudFlare Workers部署教程</title>
+    <link href="https://qikaile.us/OneManager-CloudFlare-Workers.html"/>
+    <id>https://qikaile.us/OneManager-CloudFlare-Workers.html</id>
+    <published>2021-02-09T12:57:38.000Z</published>
+    <updated>2021-02-09T13:08:03.794Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="OneManager" scheme="https://qikaile.us/tags/OneManager/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装Cloudreve 新版V3(go版本)</title>
+    <link href="https://qikaile.us/Cloudreve.html"/>
+    <id>https://qikaile.us/Cloudreve.html</id>
+    <published>2021-02-09T06:41:14.000Z</published>
+    <updated>2021-02-20T09:31:33.651Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Cloudreve" scheme="https://qikaile.us/tags/Cloudreve/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vercel反向代理做CDN，免费给网站加速隐藏源站，可绑定域名</title>
+    <link href="https://qikaile.us/vercel-cdn-website.html"/>
+    <id>https://qikaile.us/vercel-cdn-website.html</id>
+    <published>2021-02-05T08:24:31.000Z</published>
+    <updated>2021-02-20T09:31:33.653Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="vercel" scheme="https://qikaile.us/categories/vercel/"/>
+    
+    
+      <category term="vercel" scheme="https://qikaile.us/tags/vercel/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo中使用emoji表情</title>
@@ -255,133 +511,6 @@
     
     
       <category term="pandas" scheme="https://qikaile.us/tags/pandas/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PS功能精通课</title>
-    <link href="https://qikaile.us/PS-note.html"/>
-    <id>https://qikaile.us/PS-note.html</id>
-    <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2020-04-04T08:34:26.719Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="photoshop" scheme="https://qikaile.us/categories/photoshop/"/>
-    
-    
-      <category term="photoshop" scheme="https://qikaile.us/tags/photoshop/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Pandas中文手册</title>
-    <link href="https://qikaile.us/pandas-manual.html"/>
-    <id>https://qikaile.us/pandas-manual.html</id>
-    <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2020-04-15T04:13:32.294Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Pandas" scheme="https://qikaile.us/categories/Pandas/"/>
-    
-    
-      <category term="pandas" scheme="https://qikaile.us/tags/pandas/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>机器学习课程</title>
-    <link href="https://qikaile.us/Machine-learning-note.html"/>
-    <id>https://qikaile.us/Machine-learning-note.html</id>
-    <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2021-01-20T10:56:02.825Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="机器学习" scheme="https://qikaile.us/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-      <category term="机器学习" scheme="https://qikaile.us/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo搭建个人博客系列：主题美化篇</title>
-    <link href="https://qikaile.us/hexo-theme-beautify.html"/>
-    <id>https://qikaile.us/hexo-theme-beautify.html</id>
-    <published>2020-03-18T16:00:00.000Z</published>
-    <updated>2021-01-20T08:14:59.440Z</updated>
-    
-    <summary type="html">
-    
-      本文主要是NexT主题配置以及页面的样式优化，参考了许多大佬的文章以及配置文件。
-    
-    </summary>
-    
-    
-      <category term="技术" scheme="https://qikaile.us/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="博客" scheme="https://qikaile.us/categories/%E6%8A%80%E6%9C%AF/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="Hexo" scheme="https://qikaile.us/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hello-world</title>
-    <link href="https://qikaile.us/hello-world.html"/>
-    <id>https://qikaile.us/hello-world.html</id>
-    <published>2020-03-14T08:19:42.000Z</published>
-    <updated>2021-01-20T08:21:37.488Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
